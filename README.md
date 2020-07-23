@@ -1,2 +1,0 @@
-# LetsupgradePython
-Assignment 4
